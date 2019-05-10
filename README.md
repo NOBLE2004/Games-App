@@ -14,7 +14,6 @@ The application has been built with **offline support**. It has been designed us
 The whole application is built based on the MVP architectural pattern.
 
 # Application Architecture
-![alt text](https://cdn-images-1.medium.com/max/1600/1*OqeNRtyjgWZzeUifrQT-NA.png)
 
 The main advantage of using MVP, the itractor will connects to db / network and fetch the data , and it will pass to presenter where business 
 logic is writter , Then presenter will update view accordingly
